@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/assets/static" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/printbola/MyActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/printbola/service/SocketService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/MainServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/flash/FlashSecurityDecoder.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/flash/FlashSecurityHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/flash/FlashSecurityServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/handlers/ServiceHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/IOHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/IOHandlerAbs.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/MemoryStore.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/SocketIOManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/SocketIOServer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/SocketIOTransportAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/Store.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/Transports.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/BlankIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/EventClientIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/FlashSocketIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/FlashSocketTransport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/GenericIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/HtmlfileIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/HtmlfileTransport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/IOClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/ITransport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/JsonpIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/JsonpPollingTransport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/WebSocketIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/WebSocketTransport.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/XhrIO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/zxl/socket/server/transport/XhrPollingTransport.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

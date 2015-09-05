@@ -1,0 +1,109 @@
+.usercenter-footer{ 
+height: 28%;
+bottom: 0px;
+left: 0;
+right: 0;
+margin-left: 0px;
+margin-right: 0px;
+}
+.usercenter-content{ 
+height: 53%;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+color: #fff;
+cursor: default;
+background-color: #5de7f1;
+border: 0px solid #ddd;
+border-bottom-color: transparent;
+}
+.nav-tabs>li>a {
+color: #00ccff;
+margin-right: 2px;
+line-height: 1.42857143;
+border: 0px solid transparent;
+border-radius: 0px 0px 0 0;
+}
+.usercenter-footer{ 
+height: 44px;
+width:186px;
+margin:0 auto;
+}
+.form-control {
+display: block;
+width: 100%;
+height: 34px;
+padding: 6px 12px;
+font-size: 14px;
+line-height: 1.42857143;
+color: #555;
+background-color: #fff;
+background-image: none;
+border: 1px solid #5de7f1;
+border-radius: 0px;
+-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+.usercenter_tuxing{ 
+border: 1px solid #5de7f1;
+border-top-left-radius:8px;
+border-top-right-radius:0px;
+border-bottom-right-radius:0px;
+border-bottom-left-radius:8px;
+}
+.usercenter-footer-button{ 
+height: 100%;
+background-color: #00ccff;
+border: 0px;
+color: #ffffff;
+font-size: 1.8em;
+}
+.create-content-form {
+margin-bottom: 9px;
+}
+.usercenter_home-h4{ 
+background-color: #5de7f1;
+color:#fff;
+text-align:center;
+}
+.userconter_home { 
+margin-right: 0px;
+margin-left: 0px;
+ 
+}
+.usercenter_home-auto{ 
+ height:30%;
+  overflow:auto;
+}
+.usercenter_home-auto>ul{ 
+list-style-type: none;
+}
+.usercenter_home-auto>ul>li{ 
+border-bottom: 1px solid #eee;
+margin-bottom: 5px;
+}
+.usercenter_home-auto>ul>li>a{ 
+color: #000;
+}
+.usercenter_active{ 
+margin-top: 10px;
+}
+.usercenter_active-a{ 
+background-color: #00cdff;
+height: 18%;
+}
+.usercenter_active-a>a{ 
+background-color:#00cdff;
+margin-top: 15px;
+}
+.usercenter_active-a>a>h4{ 
+color: #fff;
+font-size: 2em;
+margin-top: 2px;
+margin-bottom: 0px;
+}
+.usercenter_active-a>a>img{ 
+padding-right:5px;
+}

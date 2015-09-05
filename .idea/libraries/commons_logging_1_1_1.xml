@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fastjson-1.1.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jsr166y.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/netty-3.4.5.Final-modify.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

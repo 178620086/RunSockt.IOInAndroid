@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">会议画板</string>
+    <string name="heartbeat">true</string>
+    <string name="heartbeat_timeout">600</string>
+    <string name="close_timeout">600</string>
+    <string name="heartbeat_interval">25</string>
+    <string name="flash_policy_port">10843</string>
+    <string name="flash_policy_server">true</string>
+    <string name="transports">websocket,flashsocket,htmlfile,xhr-polling,jsonp-polling</string>
+    <string name="stic">static</string>
+    <string name="exit">退出</string>
+</resources>
